@@ -21,7 +21,7 @@
 	  4.5 Slide Portfolio
 	  4.6 Slide Projects
 	  4.7 Slide Testimonials
-	  4.8 Slide Clients
+	  4.8 Slide Blog
 	  4.9 Slide Contact
 
   5.  Footer
@@ -1804,7 +1804,7 @@ h3.slide-title {
 
 
 
-/* 4.8 Slide Clients */
+/* 4.8 Slide Blog */
 
 .client-list {
 	margin-top: 4.125rem;
@@ -1844,7 +1844,7 @@ h3.slide-title {
 
 
 
-.slide-photo-clients {
+.slide-photo-Blog {
 	height: 0;
 	padding-bottom: 92.10526316%;
 	margin-top: 3.125;
